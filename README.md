@@ -16,7 +16,10 @@ Although I also faced a lot of stress as a high schooler, I was fortunate enough
 
 ## What's Next
 
-I'm planning to add even more customization to the app so users can have greater control over how they practice their breathing exercises. This mainly includes adding a custom number of cycles to any of the otherwise preset breathing exercises, as well as allowing the user to create their own description for their custom breathing exercise that includes further details on how to properly practice it. 
+- Adding even more customization to the app so users can have greater control over how they practice their breathing exercises. This mainly includes adding a custom number of cycles to any of the otherwise preset breathing exercises, as well as allowing the user to create their own description for their custom breathing exercise that includes further details on how to properly practice it. 
+- I'm trying to get this app on the App Store and Google Play which is a challenge as ths will be m first app I have posted on a store
+- Improving UI, animation, and general aesthetic of the app
+- Further down the line, adding features like videos that demonstrate how to do the pranayama in addition to the text description
 
 ---
 
