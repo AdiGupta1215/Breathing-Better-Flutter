@@ -4,7 +4,7 @@ Breathing Better is a mobile application that guides you through pranayamic brea
 
 ![Screenshots from the app](https://firebasestorage.googleapis.com/v0/b/breather-better.appspot.com/o/BreathingBetterScreenshots.png?alt=media&token=7193b437-eed1-428c-9ce6-cbe5ba4d878d)
 
----
+
 
 ## Background
 
@@ -12,7 +12,7 @@ Throughout my years as a high schooler, a consistent problem I saw among my frie
 
 Although I also faced a lot of stress as a high schooler, I was fortunate enough to have learned how to relieve that stress from my religious community and family through pranayamic breathing techniques. After doing some research, I found that pranayama was scientifically proven to provide many benefits to both mental and physical health, ranging from reducing stress to improving lung function. I think that one of the greatest problems with stress is that most people who are very stressed simply don't know how to relieve that stress in their daily lives. I created this app in order to help teach and share a practice that was quick, easy, and accessible anywhere.
 
----
+
 
 ## What's Next
 
